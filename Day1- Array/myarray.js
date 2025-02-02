@@ -50,4 +50,4 @@ newArray.delete(1);
 console.log(newArray);
 
 
-//console.log(newArray);
+
